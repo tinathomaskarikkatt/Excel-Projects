@@ -8,7 +8,8 @@ An Excel-based data analysis project that evaluates the performance of Style Adv
 
 ### Dashboard
 
-![Dashboard](Screenshots/Dashboard.png)
+![Dashboard](Style Advisors Performance Analysis
+/Dashboard.png)
 
 
 ---
