@@ -8,7 +8,7 @@ Each project demonstrates different Excel techniques used to analyze data, autom
 
 # 📂 Projects Included
 
-### 📊 [Style Advisor Performance Analysis](./Style%20Advisor%20Performance%20Analysis)
+### 📊 [Style Advisors Performance Analysis](./Style%20Advisor%20Performance%20Analysis)
 
 
 An Excel-based data analysis project that evaluates the performance of Style Advisors using customer evaluation data. The project analyzes regional performance, categorizes advisors based on evaluation scores, and presents insights through Pivot Tables, Pivot Charts, and an interactive dashboard.
